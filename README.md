@@ -1,6 +1,6 @@
 ## NOTE
 
-Unofficial Fork of https://github.com/fahlisaputra/laravel-minify
+Fork of https://github.com/fahlisaputra/laravel-minify
 
 
 *************************************************************************************************

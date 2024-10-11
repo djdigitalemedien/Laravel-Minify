@@ -131,6 +131,7 @@ abstract class Minifier
 
     protected function validHtml(string $value): bool
     {
+        return true;
         return (bool) preg_match(self::REGEX_VALID_HTML, $value);
     }
 
